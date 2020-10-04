@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Security</string>
+    <string name="your_security">Your Security</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_home">Home</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main">Main</string>
+    <string name="home">Home</string>
+    <string name="scan">Scan</string>
+    <string name="information">Information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_page">Home Page</string>
+    <string name="scan_text">Scan Text</string>
+    <string name="information_page">Information page</string>
+    <string name="todo">TODO</string>
+    <string name="new_visitor" tools:ignore="DuplicateDefinition">New Visitor</string>
+    <string name="resident">Resident</string>
+    <string name="name">Name :</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="contact_no">Contact No. :</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="e_mail">E-mail :</string>
+    <string name="your_email">Your Email</string>
+    <string name="resident_s_name">Resident \'s : Name</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="person_you_want_to_meet">Person you want to meet</string>
+    <string name="new_visitor_details">New Visitor Details</string>
+</resources>
